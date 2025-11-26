@@ -6,5 +6,11 @@
 }
 
 a{
-  color: aliceblue;
+  color: rgb(0, 183, 255);
 }
+
+body{
+  background-color: rgba(78, 78, 78, 0.322);
+  flex-wrap: wrap;
+}
+
